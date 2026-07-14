@@ -11,7 +11,7 @@ This is an enhancement to the existing RAG system. Currently, the system retriev
 
 A successful fix would involve implementing a re-ranking step for the chunks before the top k chunks are passed to the LLM for generation. This only affects the RAG system.
 
-**Branch name:** []
+**Branch name:** fix/34-rerank-rag [https://github.com/sbhattap/pathreview/tree/fix/34-rerank-rag]
 
 **Setup confirmation:** [ ] App runs locally at localhost:5173
 
