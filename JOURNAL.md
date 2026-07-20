@@ -15,4 +15,18 @@ A successful fix would involve implementing a re-ranking step for the chunks bef
 
 **Setup confirmation:** [ ] App runs locally at localhost:5173
 
-**Cohort ledger:** [ ] Issue added to cohort ledger
+**Issue Link:** https://github.com/ascherj/pathreview/issues/34
+
+## Week 8 — Reproduction & solution planning
+
+**Reproduction commit link:** [Adding a feature so N/A]
+
+**Implementation summary:**
+[Described in PLAN.md]
+
+**PLAN.md link:** [https://github.com/sbhattap/pathreview/blob/fix/34-rerank-rag/PLAN.md]
+
+**Walkthrough video (recommended):** [link to your Loom video, ≤2 min — shared for early feedback]
+
+**Blockers or open questions:**
+[Anything you're still uncertain about going into Week 9, or leave blank]
